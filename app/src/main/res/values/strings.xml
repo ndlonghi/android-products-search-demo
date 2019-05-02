@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductsSearch</string>
+    <string name="main_activity_title">Buscar Productos</string>
+    <string name="product_detail_activity_title">Detalle</string>
+</resources>
